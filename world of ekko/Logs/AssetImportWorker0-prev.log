@@ -1,0 +1,373 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.3f1 (4bef613afd59) revision 4976481'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1288; Version 2009; 64bit' Language: 'pt' Physical Memory: 16315 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Unity_projects/ekkoNovo/world-of-ekko/world of ekko
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59429
+Successfully changed project path to: E:/Unity_projects/ekkoNovo/world-of-ekko/world of ekko
+E:/Unity_projects/ekkoNovo/world-of-ekko/world of ekko
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 129.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.3f1 (4bef613afd59)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Unity_projects/ekkoNovo/world-of-ekko/world of ekko/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Vendor:   ATI
+    VRAM:     8171 MB
+    Driver:   30.0.13017.5006
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56936
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003909 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 128.43 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.891 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004724 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 126.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.571 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3370 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.9 MB.
+System memory in use after: 128.0 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3822.
+Total: 3.645800 ms (FindLiveObjects: 0.465300 ms CreateObjectMapping: 0.107800 ms MarkObjects: 2.917200 ms  DeleteObjects: 0.153600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sprites/cena 1  - camada 0 (frente 1).png
+  artifactKey: Guid(85c9049579bf9a54f976354c6caf17e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/cena 1  - camada 0 (frente 1).png using Guid(85c9049579bf9a54f976354c6caf17e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ea756ef9a705112677bbfd7c9894580') in 0.396294 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Sprites/cena 1  - camada 1 (frente 2).png
+  artifactKey: Guid(37046f21a1312d848a5b3f103605d0c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/cena 1  - camada 1 (frente 2).png using Guid(37046f21a1312d848a5b3f103605d0c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '352c64dc0b3ce2dc716b7707675d565b') in 0.035951 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.724791 seconds.
+  path: Assets/Sprites/Concept Brothers.png
+  artifactKey: Guid(70f2dca1459a46e44aec7146e915f4b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Concept Brothers.png using Guid(70f2dca1459a46e44aec7146e915f4b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '338b47a9740502640c65aafd1f73b979') in 0.020217 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.783875 seconds.
+  path: Assets/Sprites/cena 1  - camada 6 (trás 4).png
+  artifactKey: Guid(7744530ee5bab2d45b5ba3fdd5d916b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/cena 1  - camada 6 (trás 4).png using Guid(7744530ee5bab2d45b5ba3fdd5d916b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1092e7106b8cc4d57050efd035c26cf') in 0.088637 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 118.839275 seconds.
+  path: Assets/Sprites/Animações Argus & Peord/Peord Walk
+  artifactKey: Guid(3f34d1e13054406429cb09f447019c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Animações Argus & Peord/Peord Walk using Guid(3f34d1e13054406429cb09f447019c2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9778e78dd3051cc51562074fba37a9b') in 0.008205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.250049 seconds.
+  path: Assets/Sprites/Animações Argus & Peord/Argus Idle/Argus Idle.gif
+  artifactKey: Guid(c79c880e57497824aae2220bd1e8f234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Animações Argus & Peord/Argus Idle/Argus Idle.gif using Guid(c79c880e57497824aae2220bd1e8f234) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4351c61dc81b79cdd460ac2bfae4aac6') in 0.025057 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.546785 seconds.
+  path: Assets/Sprites/Animações Argus & Peord
+  artifactKey: Guid(12b1b56bd7b6e5747aec50aec17c1fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Animações Argus & Peord using Guid(12b1b56bd7b6e5747aec50aec17c1fc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cfca36c8e99e886c98d096d6624ce0a') in 0.007852 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.151939 seconds.
+  path: Assets/Sprites/Argus Idle Sheet.png
+  artifactKey: Guid(aaa1b7f6da4a2c84f91e82634549cc25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Argus Idle Sheet.png using Guid(aaa1b7f6da4a2c84f91e82634549cc25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea4f0d93e11638c20dcd3a0e77dba714') in 0.021192 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.346429 seconds.
+  path: Assets/Sprites/Argus
+  artifactKey: Guid(a0f619f48082f4c4f91eddd9ef19417f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Argus using Guid(a0f619f48082f4c4f91eddd9ef19417f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fdf32e8654863e1bda70260b5fdd36b') in 0.008955 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.878780 seconds.
+  path: Assets/Sprites/Argus 1
+  artifactKey: Guid(31f5339088419624eb3bcaf8be64c7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Argus 1 using Guid(31f5339088419624eb3bcaf8be64c7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5c25a2f19d7cfaf9533d5dc31848248') in 0.008367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.845189 seconds.
+  path: Assets/Sprites/Peord
+  artifactKey: Guid(31f5339088419624eb3bcaf8be64c7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Peord using Guid(31f5339088419624eb3bcaf8be64c7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d6ea582db7adaaf12de672d6885981d') in 0.007960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.415288 seconds.
+  path: Assets/Sprites/Peord Walk Sheet.png
+  artifactKey: Guid(4475b272b897a6d43b0f9ec0f08d38a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Peord Walk Sheet.png using Guid(4475b272b897a6d43b0f9ec0f08d38a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '646dae56ccbf3cd867051a9d978e79f2') in 0.021111 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.225917 seconds.
+  path: Assets/Sprites/Peord Idle Sheet.png
+  artifactKey: Guid(8d442a54e3288df479ba68dd9426f46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Peord Idle Sheet.png using Guid(8d442a54e3288df479ba68dd9426f46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9188c5aa4da5bb3b2ca8aa9c81e6e45') in 0.021793 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25.600439 seconds.
+  path: Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 0 (frente 1).png
+  artifactKey: Guid(55620a19c965f0c4c9757f8fbd69758d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 0 (frente 1).png using Guid(55620a19c965f0c4c9757f8fbd69758d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd14d864c69390cb92642ddabd6be62ef') in 0.014344 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.667069 seconds.
+  path: Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 3 (trás 1).png
+  artifactKey: Guid(9684cd770da7ddc4493af04bc1146b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 3 (trás 1).png using Guid(9684cd770da7ddc4493af04bc1146b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5117eca4c5b9a29dddf3d84cc6277db') in 0.017399 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.354466 seconds.
+  path: Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 7 (céu).png
+  artifactKey: Guid(4bc2d1b422cf8324ab214f0a63607cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 7 (céu).png using Guid(4bc2d1b422cf8324ab214f0a63607cb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a65381d14acf47932df2965a285b5724') in 0.020897 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 42.199932 seconds.
+  path: Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 6 (trás 4).png
+  artifactKey: Guid(5be5f4c9f24de59499efa9da85354696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 6 (trás 4).png using Guid(5be5f4c9f24de59499efa9da85354696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1fde503c048c2c9b9a05ef19fe3e156') in 0.016149 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005155 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.481 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3372 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.8 MB.
+System memory in use after: 142.9 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4017.
+Total: 4.513200 ms (FindLiveObjects: 0.567700 ms CreateObjectMapping: 0.629000 ms MarkObjects: 3.184600 ms  DeleteObjects: 0.130200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005712 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.376 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3365 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.6 MB.
+System memory in use after: 142.7 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4021.
+Total: 4.495300 ms (FindLiveObjects: 0.360600 ms CreateObjectMapping: 0.096400 ms MarkObjects: 3.873100 ms  DeleteObjects: 0.163700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 250.321232 seconds.
+  path: Assets/Sprites/Argus/Argus Idle Sheet.png
+  artifactKey: Guid(aaa1b7f6da4a2c84f91e82634549cc25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Argus/Argus Idle Sheet.png using Guid(aaa1b7f6da4a2c84f91e82634549cc25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3717b4c979169b9ba41086389f82ec1') in 0.059042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.951334 seconds.
+  path: Assets/Sprites/Argus/Argus Walk Sheet.png
+  artifactKey: Guid(a84bdcb1fe2b3984fb42eab70c1f4a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Argus/Argus Walk Sheet.png using Guid(a84bdcb1fe2b3984fb42eab70c1f4a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bcb3d4f6ffbfef1cf705e9cdc5cbc86') in 0.045573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.205294 seconds.
+  path: Assets/Sprites/Argus/Argus Walk Sheet.png
+  artifactKey: Guid(a84bdcb1fe2b3984fb42eab70c1f4a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Argus/Argus Walk Sheet.png using Guid(a84bdcb1fe2b3984fb42eab70c1f4a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '725189e962435776f0dbeb18f0d9491c') in 0.019021 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.844995 seconds.
+  path: Assets/Sprites/Argus/Argus Idle Sheet.png
+  artifactKey: Guid(aaa1b7f6da4a2c84f91e82634549cc25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Argus/Argus Idle Sheet.png using Guid(aaa1b7f6da4a2c84f91e82634549cc25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0abf2b8f6cfeba09fc66ee8fb93ff69') in 0.067404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.196696 seconds.
+  path: Assets/Sprites/Argus/Argus Walk Sheet.png
+  artifactKey: Guid(a84bdcb1fe2b3984fb42eab70c1f4a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Argus/Argus Walk Sheet.png using Guid(a84bdcb1fe2b3984fb42eab70c1f4a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec3f866bd81285e3f7f485543863711e') in 0.050172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.985441 seconds.
+  path: Assets/Sprites/Argus/Argus Idle Sheet.png
+  artifactKey: Guid(aaa1b7f6da4a2c84f91e82634549cc25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Argus/Argus Idle Sheet.png using Guid(aaa1b7f6da4a2c84f91e82634549cc25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc361de7eff7a217197b6f687924dec7') in 0.065803 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.508846 seconds.
+  path: Assets/Sprites/Argus/Argus Idle Sheet.png
+  artifactKey: Guid(aaa1b7f6da4a2c84f91e82634549cc25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Argus/Argus Idle Sheet.png using Guid(aaa1b7f6da4a2c84f91e82634549cc25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8332edeb5cb4fbac7f92a09b4c953a7f') in 0.067493 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.649189 seconds.
+  path: Assets/Sprites/Argus/Argus Walk Sheet.png
+  artifactKey: Guid(a84bdcb1fe2b3984fb42eab70c1f4a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Argus/Argus Walk Sheet.png using Guid(a84bdcb1fe2b3984fb42eab70c1f4a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e19cc3af43e2082f70df2ca1c818844') in 0.071831 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.658951 seconds.
+  path: Assets/Sprites/Cena 1 - CAMADAS
+  artifactKey: Guid(b2b32791e84ccb24fae1584318881a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cena 1 - CAMADAS using Guid(b2b32791e84ccb24fae1584318881a55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16a759c7460c1db0eac9a65af56698d7') in 0.008072 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.423329 seconds.
+  path: Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 3 (trás 1).png
+  artifactKey: Guid(9684cd770da7ddc4493af04bc1146b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 3 (trás 1).png using Guid(9684cd770da7ddc4493af04bc1146b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae807a8c6ef93222e3aa288e0611ab19') in 0.010588 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.845999 seconds.
+  path: Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 3 (trás 1).png
+  artifactKey: Guid(9684cd770da7ddc4493af04bc1146b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 3 (trás 1).png using Guid(9684cd770da7ddc4493af04bc1146b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76decc668299f4e34156bd34162e827d') in 0.022854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.419649 seconds.
+  path: Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 3 (trás 1).png
+  artifactKey: Guid(9684cd770da7ddc4493af04bc1146b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 3 (trás 1).png using Guid(9684cd770da7ddc4493af04bc1146b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11df9c7b2bd51591142686b2e08dd2b1') in 0.013621 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.940001 seconds.
+  path: Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 1 (frente 2).png
+  artifactKey: Guid(d0ca4ed5daa4c064899ed7c29f9fc7f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 1 (frente 2).png using Guid(d0ca4ed5daa4c064899ed7c29f9fc7f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fa61a0e9577a2010d732bff0612fdbc') in 0.031799 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.049246 seconds.
+  path: Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 2 (meio).png
+  artifactKey: Guid(8de465ee5a4e8f7488a44366891332e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 2 (meio).png using Guid(8de465ee5a4e8f7488a44366891332e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '925ffecd392c88b9f88342ccdbd8e788') in 0.029279 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.383748 seconds.
+  path: Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 6 (trás 4).png
+  artifactKey: Guid(5be5f4c9f24de59499efa9da85354696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Cena 1 - CAMADAS/cena 1  - camada 6 (trás 4).png using Guid(5be5f4c9f24de59499efa9da85354696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c27a140cac3bf1e0d02af6516ff50f1') in 0.015744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 381.277406 seconds.
+  path: Assets/Animation/Argus/Argus.controller
+  artifactKey: Guid(0bf00319d676c5b4d97d26e28fee987d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Argus/Argus.controller using Guid(0bf00319d676c5b4d97d26e28fee987d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e78063d2c608912c02b30c2758fbc8b') in 0.010502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 364.776385 seconds.
+  path: Assets/Sprites/Argus/Argus Idle.gif
+  artifactKey: Guid(b046eabacae342344b9950bb52cee0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Argus/Argus Idle.gif using Guid(b046eabacae342344b9950bb52cee0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c09e5b5be112eebbeda41ddbb996cb3') in 0.025822 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.003619 seconds.
+  path: Assets/Animation
+  artifactKey: Guid(f35b012e793f8c9489e68e8e707e4cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation using Guid(f35b012e793f8c9489e68e8e707e4cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '556625b19726cb0fe9d8b40dabd0b38e') in 0.008563 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.453500 seconds.
+  path: Assets/Animation/Argus/Idle.anim
+  artifactKey: Guid(a1bb6f32bac40b943952e20abd8fee44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Argus/Idle.anim using Guid(a1bb6f32bac40b943952e20abd8fee44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c02e5514f40e42390864853d69596028') in 0.013351 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.541155 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(de6bbb2a64501bf4d8d0ca209bd06351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(de6bbb2a64501bf4d8d0ca209bd06351) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e504ca2afc7461d05ae92f7b57ceba2c') in 0.008665 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.542273 seconds.
+  path: Assets/Animation/Argus/Sprite.controller
+  artifactKey: Guid(fe4f554b717c97e4f86290c2052a37ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Argus/Sprite.controller using Guid(fe4f554b717c97e4f86290c2052a37ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '205288f1d6b7858b91dc56147fe4f457') in 0.009548 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.578970 seconds.
+  path: Assets/Animation/Argus/Argus.controller
+  artifactKey: Guid(fe4f554b717c97e4f86290c2052a37ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Argus/Argus.controller using Guid(fe4f554b717c97e4f86290c2052a37ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e1aff2db7db7e9f6183fd800624005a') in 0.003143 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.083586 seconds.
+  path: Assets/Animation/Argus/ArgusController.controller
+  artifactKey: Guid(fe4f554b717c97e4f86290c2052a37ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Argus/ArgusController.controller using Guid(fe4f554b717c97e4f86290c2052a37ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8df9497c5f266ee2fd32ee3a9570cebe') in 0.008816 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 717.193938 seconds.
+  path: Assets/Sprites/Peord/Peord Idle Sheet.png
+  artifactKey: Guid(8d442a54e3288df479ba68dd9426f46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Peord/Peord Idle Sheet.png using Guid(8d442a54e3288df479ba68dd9426f46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90871a01d9e1d3dd1f99a7e51d7eafd5') in 0.021336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.646851 seconds.
+  path: Assets/Sprites/Peord/Peord Walk Sheet.png
+  artifactKey: Guid(4475b272b897a6d43b0f9ec0f08d38a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Peord/Peord Walk Sheet.png using Guid(4475b272b897a6d43b0f9ec0f08d38a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07772b64b51e0a3adc9f3673cb962e45') in 0.017176 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.565400 seconds.
+  path: Assets/Sprites/Peord/Peord Idle Sheet.png
+  artifactKey: Guid(8d442a54e3288df479ba68dd9426f46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Peord/Peord Idle Sheet.png using Guid(8d442a54e3288df479ba68dd9426f46b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd99a021e3a0b8dc4ae95c05d57b40b57') in 0.092160 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.993993 seconds.
+  path: Assets/Sprites/Peord/Peord Walk Sheet.png
+  artifactKey: Guid(4475b272b897a6d43b0f9ec0f08d38a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Peord/Peord Walk Sheet.png using Guid(4475b272b897a6d43b0f9ec0f08d38a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d50f9a25cef2bdd0fa6fd97eb17c3f7') in 0.051963 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
