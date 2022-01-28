@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: b6fcca8e62198174a9fab46b18f59a8e
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Boca0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1104
+      y: 4
+      width: 1165
+      height: 1277
+    spriteID: 83bb1dd3efc63664592af88e177f7869
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1020, y: -257}
+  - name: Boca1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1458
+      width: 994
+      height: 1365
+    spriteID: 4434a70e1cd41f24c83a56804d776439
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -105, y: 1308}
+  - name: Boca2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1104
+      y: 1289
+      width: 864
+      height: 1278
+    spriteID: 6bc2f47810646874eb296aa31f61a264
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1013, y: 1065}
+  - name: Boca3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1104
+      y: 2575
+      width: 783
+      height: 1211
+    spriteID: 39ee74df51584ca49a74dc1c7654a427
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 983, y: 2306}
+  - name: Boca4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1092
+      height: 1446
+    spriteID: b40146c9e0cfeb547aefad04ef63e552
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -117, y: -65}
+  - name: Corpo0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2831
+      width: 815
+      height: 1201
+    spriteID: 7b05ecf5a84a292428508e4b5fdc2a68
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -136, y: 2569}
+  - name: Corpo1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2277
+      y: 4
+      width: 744
+      height: 930
+    spriteID: 050ed61ec67f3a74fbfec01bd1261459
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2117, y: -265}
+  - name: Corpo2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2277
+      y: 942
+      width: 485
+      height: 518
+    spriteID: f8b4f9747967f25408f18beba378dc55
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2095, y: 792}
+  - name: Corpo3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2277
+      y: 1468
+      width: 436
+      height: 336
+    spriteID: 7ca49d949bd722744aeff8845e22c580
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1931, y: 802}
+  - name: Corpo4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1104
+      y: 3794
+      width: 474
+      height: 199
+    spriteID: 78f43597fa4fe07498d5bc79ebdc7623
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 777, y: 3061}
+  rigSpriteImportData:
+  - name: Boca0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1104
+      y: 4
+      width: 1165
+      height: 1277
+    spriteID: 2b5fb7560dac8db45acdde12fd66a401
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1020, y: -257}
+  - name: Boca1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1458
+      width: 994
+      height: 1365
+    spriteID: 5f69db9aaaf337842be0c2d5af5c1163
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -105, y: 1308}
+  - name: Boca2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1104
+      y: 1289
+      width: 864
+      height: 1278
+    spriteID: 39d31fb2b6c0d464583d0662b159e104
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1013, y: 1065}
+  - name: Boca3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1104
+      y: 2575
+      width: 783
+      height: 1211
+    spriteID: 6f46883a9eceab24e9b282e526fc5ca3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 983, y: 2306}
+  - name: Boca4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 1092
+      height: 1446
+    spriteID: 47ff4156819d920408b19c78dda69269
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -117, y: -65}
+  - name: Corpo0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2831
+      width: 815
+      height: 1201
+    spriteID: 181f0e7118c8b9549b3e331ca68e92c8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -136, y: 2569}
+  - name: Corpo1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2277
+      y: 4
+      width: 744
+      height: 930
+    spriteID: 0506cde74aa04ae408d1bd324af0f9cc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2117, y: -265}
+  - name: Corpo2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2277
+      y: 942
+      width: 485
+      height: 518
+    spriteID: 0a24e16579394a14e8478287239dc09c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2095, y: 792}
+  - name: Corpo3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2277
+      y: 1468
+      width: 436
+      height: 336
+    spriteID: 01393e2bd41866643bcc10cca92e8f57
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1931, y: 802}
+  - name: Corpo4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1104
+      y: 3794
+      width: 474
+      height: 199
+    spriteID: 69c605a810474c642b89ecb6d7e1c909
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 777, y: 3061}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 1345, y: 1590}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: Verme_Texture
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 661
+    mosaicPosition: {x: 0, y: 0}
+  - name: CamadaIntermediaria
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 21
+    mosaicPosition: {x: 0, y: 0}
+  - name: Verme
+    spriteName: 
+    isGroup: 1
+    parentIndex: 1
+    spriteID: 00000000000000000000000000000000
+    layerID: 36
+    mosaicPosition: {x: 0, y: 0}
+  - name: Boca
+    spriteName: 
+    isGroup: 1
+    parentIndex: 2
+    spriteID: 00000000000000000000000000000000
+    layerID: 606
+    mosaicPosition: {x: 0, y: 0}
+  - name: Boca0
+    spriteName: Boca0
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 83bb1dd3efc63664592af88e177f7869
+    layerID: 657
+    mosaicPosition: {x: 1104, y: 4}
+  - name: Boca1
+    spriteName: Boca1
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 4434a70e1cd41f24c83a56804d776439
+    layerID: 649
+    mosaicPosition: {x: 4, y: 1458}
+  - name: Boca2
+    spriteName: Boca2
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 6bc2f47810646874eb296aa31f61a264
+    layerID: 650
+    mosaicPosition: {x: 1104, y: 1289}
+  - name: Boca3
+    spriteName: Boca3
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 39ee74df51584ca49a74dc1c7654a427
+    layerID: 654
+    mosaicPosition: {x: 1104, y: 2575}
+  - name: Boca4
+    spriteName: Boca4
+    isGroup: 0
+    parentIndex: 3
+    spriteID: b40146c9e0cfeb547aefad04ef63e552
+    layerID: 652
+    mosaicPosition: {x: 4, y: 4}
+  - name: Corpo
+    spriteName: 
+    isGroup: 1
+    parentIndex: 2
+    spriteID: 00000000000000000000000000000000
+    layerID: 238
+    mosaicPosition: {x: 0, y: 0}
+  - name: Corpo0
+    spriteName: Corpo0
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 7b05ecf5a84a292428508e4b5fdc2a68
+    layerID: 640
+    mosaicPosition: {x: 4, y: 2831}
+  - name: Corpo1
+    spriteName: Corpo1
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 050ed61ec67f3a74fbfec01bd1261459
+    layerID: 635
+    mosaicPosition: {x: 2277, y: 4}
+  - name: Corpo2
+    spriteName: Corpo2
+    isGroup: 0
+    parentIndex: 9
+    spriteID: f8b4f9747967f25408f18beba378dc55
+    layerID: 630
+    mosaicPosition: {x: 2277, y: 942}
+  - name: CamadaAtras
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 17
+    mosaicPosition: {x: 0, y: 0}
+  - name: Verme (Corpo)
+    spriteName: 
+    isGroup: 1
+    parentIndex: 13
+    spriteID: 00000000000000000000000000000000
+    layerID: 47
+    mosaicPosition: {x: 0, y: 0}
+  - name: Corpo3
+    spriteName: Corpo3
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 7ca49d949bd722744aeff8845e22c580
+    layerID: 186
+    mosaicPosition: {x: 2277, y: 1468}
+  - name: Corpo4
+    spriteName: Corpo4
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 78f43597fa4fe07498d5bc79ebdc7623
+    layerID: 645
+    mosaicPosition: {x: 1104, y: 3794}
+  rigPSDLayers:
+  - name: Verme_Texture
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 661
+    mosaicPosition: {x: 0, y: 0}
+  - name: CamadaIntermediaria
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 
+    layerID: 21
+    mosaicPosition: {x: 0, y: 0}
+  - name: Verme
+    spriteName: 
+    isGroup: 1
+    parentIndex: 1
+    spriteID: 
+    layerID: 36
+    mosaicPosition: {x: 0, y: 0}
+  - name: Boca
+    spriteName: 
+    isGroup: 1
+    parentIndex: 2
+    spriteID: 
+    layerID: 606
+    mosaicPosition: {x: 0, y: 0}
+  - name: Boca0
+    spriteName: Boca0
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 2b5fb7560dac8db45acdde12fd66a401
+    layerID: 657
+    mosaicPosition: {x: 1104, y: 4}
+  - name: Boca1
+    spriteName: Boca1
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 5f69db9aaaf337842be0c2d5af5c1163
+    layerID: 649
+    mosaicPosition: {x: 4, y: 1458}
+  - name: Boca2
+    spriteName: Boca2
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 39d31fb2b6c0d464583d0662b159e104
+    layerID: 650
+    mosaicPosition: {x: 1104, y: 1289}
+  - name: Boca3
+    spriteName: Boca3
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 6f46883a9eceab24e9b282e526fc5ca3
+    layerID: 654
+    mosaicPosition: {x: 1104, y: 2575}
+  - name: Boca4
+    spriteName: Boca4
+    isGroup: 0
+    parentIndex: 3
+    spriteID: 47ff4156819d920408b19c78dda69269
+    layerID: 652
+    mosaicPosition: {x: 4, y: 4}
+  - name: Corpo
+    spriteName: 
+    isGroup: 1
+    parentIndex: 2
+    spriteID: 
+    layerID: 238
+    mosaicPosition: {x: 0, y: 0}
+  - name: Corpo0
+    spriteName: Corpo0
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 181f0e7118c8b9549b3e331ca68e92c8
+    layerID: 640
+    mosaicPosition: {x: 4, y: 2831}
+  - name: Corpo1
+    spriteName: Corpo1
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 0506cde74aa04ae408d1bd324af0f9cc
+    layerID: 635
+    mosaicPosition: {x: 2277, y: 4}
+  - name: Corpo2
+    spriteName: Corpo2
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 0a24e16579394a14e8478287239dc09c
+    layerID: 630
+    mosaicPosition: {x: 2277, y: 942}
+  - name: CamadaAtras
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 
+    layerID: 17
+    mosaicPosition: {x: 0, y: 0}
+  - name: Verme (Corpo)
+    spriteName: 
+    isGroup: 1
+    parentIndex: 13
+    spriteID: 
+    layerID: 47
+    mosaicPosition: {x: 0, y: 0}
+  - name: Corpo3
+    spriteName: Corpo3
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 01393e2bd41866643bcc10cca92e8f57
+    layerID: 186
+    mosaicPosition: {x: 2277, y: 1468}
+  - name: Corpo4
+    spriteName: Corpo4
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 69c605a810474c642b89ecb6d7e1c909
+    layerID: 645
+    mosaicPosition: {x: 1104, y: 3794}
+  sharedRigPSDLayers: []
+  generateGOHierarchy: 0
+  textureAssetName: WormAssets_Texture Texture
+  prefabAssetName: WormAssets_Texture Prefab
+  spriteLibAssetName: WormAssets_Texture Sprite Lib
+  skeletonAssetName: WormAssets_Texture Skeleton
+  secondarySpriteTextures:
+  - name: NormalMap
+    texture: {fileID: -3478843832959508732, guid: f56da4254e7c8574a8c8d9c739f7e0b4, type: 3}

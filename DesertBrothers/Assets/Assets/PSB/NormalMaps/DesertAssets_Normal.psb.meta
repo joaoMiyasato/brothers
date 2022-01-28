@@ -1,0 +1,849 @@
+fileFormatVersion: 2
+guid: e5c01fb00cdd7b145b28108447076335
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Duna03
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 857
+      width: 2089
+      height: 902
+    spriteID: 6fb2418f31760034db0ecd183997ef09
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -69, y: 703}
+  - name: Duna04
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3104
+      width: 2137
+      height: 651
+    spriteID: 92a2665480bccc7488dd829810d0bcec
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -84, y: 2727}
+  - name: Duna05
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1767
+      width: 2323
+      height: 719
+    spriteID: 3006e9a9ba608e345a99cae68de600a6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -68, y: 1439}
+  - name: Duna06
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2531
+      y: 4
+      width: 886
+      height: 819
+    spriteID: d268988ac966ea149a8339cc54a51958
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2027, y: -186}
+  - name: Duna07
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3763
+      width: 2000
+      height: 564
+    spriteID: c79ff472728725e4e9b07f436b18f30b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -221, y: 3579}
+  - name: Duna08
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2101
+      y: 857
+      width: 1725
+      height: 407
+    spriteID: 6137baa42a1133c42bcffa43497aeaf1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1601, y: 522}
+  - name: Duna09
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2149
+      y: 3104
+      width: 1724
+      height: 506
+    spriteID: 75b9c658b3946794ba4ba94ebc08f2ae
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1658, y: 2894}
+  - name: Duna10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2160
+      height: 845
+    spriteID: 638b76deabb29f544a59b60034fbcba4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -84, y: -169}
+  - name: Duna11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2494
+      width: 2313
+      height: 602
+    spriteID: 08503d7887787494c9cbb05814d6e85c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -113, y: 2096}
+  - name: Duna12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2335
+      y: 1767
+      width: 1727
+      height: 707
+    spriteID: 1bda640edef4a234e9608e158d8f27cf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2044, y: 1515}
+  - name: Duna13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2012
+      y: 3763
+      width: 1495
+      height: 447
+    spriteID: 41c030848dfc4b54d94ea24355e4951a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1820, y: 3297}
+  rigSpriteImportData:
+  - name: Duna03
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 857
+      width: 2089
+      height: 902
+    spriteID: 5907cde6eaf1d5a4cb85ecf25689cc33
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -69, y: 703}
+  - name: Duna04
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3104
+      width: 2137
+      height: 651
+    spriteID: 826ef9890655d8148aea591de049884c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -84, y: 2727}
+  - name: Duna05
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1767
+      width: 2323
+      height: 719
+    spriteID: 8c3f599724e7fab48b5d9d69ef93bdfd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -68, y: 1439}
+  - name: Duna06
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2408
+      y: 4
+      width: 1193
+      height: 819
+    spriteID: 72e9f93bfa4cbea488fe426178c271eb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2027, y: -186}
+  - name: Duna07
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3763
+      width: 2000
+      height: 564
+    spriteID: b06af306945ae7c4c8fa7aa1a665dd70
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -221, y: 3579}
+  - name: Duna08
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2101
+      y: 857
+      width: 1725
+      height: 407
+    spriteID: 82ccaeed7fee831489013644decf03f0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1601, y: 522}
+  - name: Duna09
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2149
+      y: 3104
+      width: 1724
+      height: 506
+    spriteID: 76e23de19267a68478f8973d5919c579
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1658, y: 2894}
+  - name: Duna10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2396
+      height: 845
+    spriteID: d2c470652b6a4cc4e8a5fce23f759735
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -84, y: -169}
+  - name: Duna11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2494
+      width: 2539
+      height: 602
+    spriteID: ca73ebec7179e4545ae867c7bfb63d5c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -113, y: 2096}
+  - name: Duna12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2335
+      y: 1767
+      width: 1727
+      height: 707
+    spriteID: b6d254132b38b6443935778caed3b0ef
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2044, y: 1515}
+  - name: Duna13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2012
+      y: 3763
+      width: 1597
+      height: 447
+    spriteID: b2a63eec06b536a4f80220ae60d7c048
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1820, y: 3297}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 2048
+  documentSize: {x: 2760, y: 1118}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 8192
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: Dunas_NormalMap
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 733
+    mosaicPosition: {x: 0, y: 0}
+  - name: CamadaPrincipal
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 727
+    mosaicPosition: {x: 0, y: 0}
+  - name: Duna03
+    spriteName: Duna03
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 6fb2418f31760034db0ecd183997ef09
+    layerID: 736
+    mosaicPosition: {x: 4, y: 857}
+  - name: Duna04
+    spriteName: Duna04
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 92a2665480bccc7488dd829810d0bcec
+    layerID: 735
+    mosaicPosition: {x: 4, y: 3104}
+  - name: Duna05
+    spriteName: Duna05
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 3006e9a9ba608e345a99cae68de600a6
+    layerID: 734
+    mosaicPosition: {x: 4, y: 1767}
+  - name: CamadaIntermediaria
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 722
+    mosaicPosition: {x: 0, y: 0}
+  - name: Duna06
+    spriteName: Duna06
+    isGroup: 0
+    parentIndex: 5
+    spriteID: d268988ac966ea149a8339cc54a51958
+    layerID: 737
+    mosaicPosition: {x: 2408, y: 4}
+  - name: Duna07
+    spriteName: Duna07
+    isGroup: 0
+    parentIndex: 5
+    spriteID: c79ff472728725e4e9b07f436b18f30b
+    layerID: 738
+    mosaicPosition: {x: 4, y: 3763}
+  - name: Duna08
+    spriteName: Duna08
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 6137baa42a1133c42bcffa43497aeaf1
+    layerID: 739
+    mosaicPosition: {x: 2101, y: 857}
+  - name: Duna09
+    spriteName: Duna09
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 75b9c658b3946794ba4ba94ebc08f2ae
+    layerID: 740
+    mosaicPosition: {x: 2149, y: 3104}
+  - name: Duna10
+    spriteName: Duna10
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 638b76deabb29f544a59b60034fbcba4
+    layerID: 741
+    mosaicPosition: {x: 4, y: 4}
+  - name: Duna11
+    spriteName: Duna11
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 08503d7887787494c9cbb05814d6e85c
+    layerID: 742
+    mosaicPosition: {x: 4, y: 2494}
+  - name: Duna12
+    spriteName: Duna12
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 1bda640edef4a234e9608e158d8f27cf
+    layerID: 743
+    mosaicPosition: {x: 2335, y: 1767}
+  - name: CamadaAtras
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 713
+    mosaicPosition: {x: 0, y: 0}
+  - name: Duna13
+    spriteName: Duna13
+    isGroup: 0
+    parentIndex: 13
+    spriteID: 41c030848dfc4b54d94ea24355e4951a
+    layerID: 744
+    mosaicPosition: {x: 2012, y: 3763}
+  rigPSDLayers:
+  - name: Dunas_NormalMap
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 733
+    mosaicPosition: {x: 0, y: 0}
+  - name: CamadaPrincipal
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 
+    layerID: 727
+    mosaicPosition: {x: 0, y: 0}
+  - name: Duna03
+    spriteName: Duna03
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 5907cde6eaf1d5a4cb85ecf25689cc33
+    layerID: 736
+    mosaicPosition: {x: 4, y: 857}
+  - name: Duna04
+    spriteName: Duna04
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 826ef9890655d8148aea591de049884c
+    layerID: 735
+    mosaicPosition: {x: 4, y: 3104}
+  - name: Duna05
+    spriteName: Duna05
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 8c3f599724e7fab48b5d9d69ef93bdfd
+    layerID: 734
+    mosaicPosition: {x: 4, y: 1767}
+  - name: CamadaIntermediaria
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 
+    layerID: 722
+    mosaicPosition: {x: 0, y: 0}
+  - name: Duna06
+    spriteName: Duna06
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 72e9f93bfa4cbea488fe426178c271eb
+    layerID: 737
+    mosaicPosition: {x: 2408, y: 4}
+  - name: Duna07
+    spriteName: Duna07
+    isGroup: 0
+    parentIndex: 5
+    spriteID: b06af306945ae7c4c8fa7aa1a665dd70
+    layerID: 738
+    mosaicPosition: {x: 4, y: 3763}
+  - name: Duna08
+    spriteName: Duna08
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 82ccaeed7fee831489013644decf03f0
+    layerID: 739
+    mosaicPosition: {x: 2101, y: 857}
+  - name: Duna09
+    spriteName: Duna09
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 76e23de19267a68478f8973d5919c579
+    layerID: 740
+    mosaicPosition: {x: 2149, y: 3104}
+  - name: Duna10
+    spriteName: Duna10
+    isGroup: 0
+    parentIndex: 5
+    spriteID: d2c470652b6a4cc4e8a5fce23f759735
+    layerID: 741
+    mosaicPosition: {x: 4, y: 4}
+  - name: Duna11
+    spriteName: Duna11
+    isGroup: 0
+    parentIndex: 5
+    spriteID: ca73ebec7179e4545ae867c7bfb63d5c
+    layerID: 742
+    mosaicPosition: {x: 4, y: 2494}
+  - name: Duna12
+    spriteName: Duna12
+    isGroup: 0
+    parentIndex: 5
+    spriteID: b6d254132b38b6443935778caed3b0ef
+    layerID: 743
+    mosaicPosition: {x: 2335, y: 1767}
+  - name: CamadaAtras
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 
+    layerID: 713
+    mosaicPosition: {x: 0, y: 0}
+  - name: Duna13
+    spriteName: Duna13
+    isGroup: 0
+    parentIndex: 13
+    spriteID: b2a63eec06b536a4f80220ae60d7c048
+    layerID: 744
+    mosaicPosition: {x: 2012, y: 3763}
+  sharedRigPSDLayers: []
+  generateGOHierarchy: 0
+  textureAssetName: DesertAssets_Normal Texture
+  prefabAssetName: DesertAssets_Normal Prefab
+  spriteLibAssetName: DesertAssets_Normal Sprite Lib
+  skeletonAssetName: DesertAssets_Normal Skeleton
+  secondarySpriteTextures: []
