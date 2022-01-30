@@ -1,0 +1,459 @@
+fileFormatVersion: 2
+guid: b67306d93487ccf4bb1f3a7d880f1b5a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: LightSave0
+    originalName: 
+    pivot: {x: 0.68118685, y: 0.6197832}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 266
+      y: 342
+      width: 115
+      height: 105
+    spriteID: d56e6a1867e7ca24c853c43030649e73
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 118, y: 218}
+  - name: LightSave1
+    originalName: 
+    pivot: {x: 0.78799224, y: 0.74731505}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 266
+      y: 177
+      width: 228
+      height: 157
+    spriteID: b440f1dafb79b2f4786639f51c3a8a70
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 220, y: 105}
+  - name: LightSave2
+    originalName: 
+    pivot: {x: 0.7828802, y: 0.7605687}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 189
+      width: 229
+      height: 165
+    spriteID: 037279dc2c38db142890135f0fdd6b64
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -42, y: 125}
+  - name: LightSave3
+    originalName: 
+    pivot: {x: 0.7837792, y: 0.73586667}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 266
+      y: 8
+      width: 229
+      height: 165
+    spriteID: a24002b778c81bd489c67fc06a2bc7a2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 220, y: -60}
+  - name: LightSave4
+    originalName: 
+    pivot: {x: 0.790301, y: 0.76505274}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 254
+      height: 177
+    spriteID: a8cf5af291f762345ae2e954958c5f1b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -25, y: -54}
+  rigSpriteImportData:
+  - name: LuzSave0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 266
+      y: 342
+      width: 115
+      height: 105
+    spriteID: 9f52cc03cc8c3874eacd5e4f139bd55f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 118, y: 218}
+  - name: LuzSave1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 266
+      y: 177
+      width: 228
+      height: 157
+    spriteID: 9a23afe2f3104a14ebbed64a56457f17
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 220, y: 105}
+  - name: LuzSave2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 189
+      width: 229
+      height: 165
+    spriteID: e1dc13ef78a10cb40a6ba6b4b1ec3374
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -42, y: 125}
+  - name: LuzSave3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 266
+      y: 4
+      width: 229
+      height: 165
+    spriteID: 0ea537843a7a67249bdc8a093044612a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 220, y: -60}
+  - name: LuzSave4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 254
+      height: 177
+    spriteID: 3f33a9d9bfc6dcb40a9d4d7528aa0db6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -25, y: -54}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 512
+  importedTextureHeight: 512
+  documentSize: {x: 315, y: 250}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 512
+  textureActualHeight: 512
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: LightSave
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 707
+    mosaicPosition: {x: 0, y: 0}
+  - name: LightSave0
+    spriteName: LightSave0
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d56e6a1867e7ca24c853c43030649e73
+    layerID: 706
+    mosaicPosition: {x: 266, y: 342}
+  - name: LightSave1
+    spriteName: LightSave1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b440f1dafb79b2f4786639f51c3a8a70
+    layerID: 710
+    mosaicPosition: {x: 266, y: 177}
+  - name: LightSave2
+    spriteName: LightSave2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 037279dc2c38db142890135f0fdd6b64
+    layerID: 713
+    mosaicPosition: {x: 4, y: 189}
+  - name: LightSave3
+    spriteName: LightSave3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a24002b778c81bd489c67fc06a2bc7a2
+    layerID: 717
+    mosaicPosition: {x: 266, y: 4}
+  - name: LightSave4
+    spriteName: LightSave4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a8cf5af291f762345ae2e954958c5f1b
+    layerID: 341
+    mosaicPosition: {x: 4, y: 4}
+  rigPSDLayers:
+  - name: LuzSave
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 707
+    mosaicPosition: {x: 0, y: 0}
+  - name: LuzSave0
+    spriteName: LuzSave0
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9f52cc03cc8c3874eacd5e4f139bd55f
+    layerID: 706
+    mosaicPosition: {x: 266, y: 342}
+  - name: LuzSave1
+    spriteName: LuzSave1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9a23afe2f3104a14ebbed64a56457f17
+    layerID: 710
+    mosaicPosition: {x: 266, y: 177}
+  - name: LuzSave2
+    spriteName: LuzSave2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e1dc13ef78a10cb40a6ba6b4b1ec3374
+    layerID: 713
+    mosaicPosition: {x: 4, y: 189}
+  - name: LuzSave3
+    spriteName: LuzSave3
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0ea537843a7a67249bdc8a093044612a
+    layerID: 717
+    mosaicPosition: {x: 266, y: 4}
+  - name: LuzSave4
+    spriteName: LuzSave4
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3f33a9d9bfc6dcb40a9d4d7528aa0db6
+    layerID: 341
+    mosaicPosition: {x: 4, y: 4}
+  sharedRigPSDLayers: []
+  generateGOHierarchy: 0
+  textureAssetName: Save_Animation Texture
+  prefabAssetName: Save_Animation Prefab
+  spriteLibAssetName: Save_Animation Sprite Lib
+  skeletonAssetName: Save_Animation Skeleton
+  secondarySpriteTextures: []
