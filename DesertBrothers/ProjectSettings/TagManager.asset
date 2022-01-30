@@ -13,10 +13,10 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - SceneObjects
+  - Sky
+  - FX
   - 
   - 
   - 
@@ -41,4 +41,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 3785970813
+    locked: 0
+  - name: DeepGround
+    uniqueID: 786866573
+    locked: 0
+  - name: BackGround
+    uniqueID: 3387454345
+    locked: 0
+  - name: MainGround
+    uniqueID: 3146896417
+    locked: 0
+  - name: Player
+    uniqueID: 22624571
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3621547661
     locked: 0

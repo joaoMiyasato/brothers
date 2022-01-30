@@ -1,0 +1,1039 @@
+fileFormatVersion: 2
+guid: 25b153832640d454bb1f17f2c49bed23
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Dune00
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4273
+      width: 2462
+      height: 374
+    spriteID: 253b30932c29c084aa4508c2edda47f3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -62, y: 3681}
+  - name: Dune01
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2101
+      y: 4
+      width: 1890
+      height: 253
+    spriteID: 5a1af155bc6f61f43b2f6cfc1da65732
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1683, y: -585}
+  - name: Dune02
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3129
+      y: 914
+      width: 935
+      height: 451
+    spriteID: cf52f996d4d83b84186e36dd9005c87f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1419, y: 322}
+  - name: Dune03
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2485
+      width: 2137
+      height: 651
+    spriteID: b3b2b56e8409d294cb413c7e8dfb0100
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -84, y: 2108}
+  - name: Dune04
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1758
+      width: 2323
+      height: 719
+    spriteID: 43baeb7a5043c454fa2b533ea26bcea3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -68, y: 1430}
+  - name: Dune05
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2089
+      height: 902
+    spriteID: 202f255e585ee994cb41e508fe064f0b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -69, y: -150}
+  - name: Dune06
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2126
+      y: 914
+      width: 995
+      height: 819
+    spriteID: 4d41b5c28e1eb074bb1ac763bfeb6215
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1731, y: 724}
+  - name: Dune12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2335
+      y: 1758
+      width: 1727
+      height: 707
+    spriteID: 8d5a3c059edcee645bb31341699eb819
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2044, y: 1506}
+  - name: Dune07
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3701
+      width: 2000
+      height: 564
+    spriteID: 45f680f78a3ddec40a1cbdb15db2b5ee
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -221, y: 3517}
+  - name: Dune08
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2149
+      y: 2485
+      width: 1725
+      height: 407
+    spriteID: 2759c4641973bda4d9999df21b51fa98
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1649, y: 2150}
+  - name: Dune09
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2367
+      y: 3144
+      width: 1724
+      height: 506
+    spriteID: c3703731e9770d44b986a7c7fcfd1b73
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1876, y: 2934}
+  - name: Dune11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3144
+      width: 2355
+      height: 549
+    spriteID: 1662deab4b0ff1541a42d7978eff173f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -113, y: 2746}
+  - name: Dune10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 914
+      width: 2114
+      height: 836
+    spriteID: 82c5fcc80a4307e4da5ad0ea82ee5850
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -84, y: 732}
+  - name: Dune13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2012
+      y: 3701
+      width: 1497
+      height: 447
+    spriteID: 2b9a1a4ded977594b84e3683e36ea780
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1820, y: 3235}
+  rigSpriteImportData:
+  - name: Dune00
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4273
+      width: 2462
+      height: 374
+    spriteID: 84cd3bfdd9068d947a799d347c88b891
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -62, y: 3681}
+  - name: Dune01
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2101
+      y: 4
+      width: 1890
+      height: 253
+    spriteID: bbdd41c0d15f1024586c872a85490dfd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1683, y: -585}
+  - name: Dune02
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3129
+      y: 914
+      width: 935
+      height: 451
+    spriteID: 55085eedc26553a4cbf1dcac3400ce5c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1419, y: 322}
+  - name: Dune03
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2485
+      width: 2137
+      height: 651
+    spriteID: a6d40bcdce4e696418e7d887442a00a6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -84, y: 2108}
+  - name: Dune04
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1758
+      width: 2323
+      height: 719
+    spriteID: 5b3de29c893e1a94d8e16facd928c5af
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -68, y: 1430}
+  - name: Dune05
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2089
+      height: 902
+    spriteID: 9b8df7fb8c9148348baf10685ff38acf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -69, y: -150}
+  - name: Dune06
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2126
+      y: 914
+      width: 995
+      height: 819
+    spriteID: de7dc72c1236bf84ea10daebdc807450
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1731, y: 724}
+  - name: Dune07
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2335
+      y: 1758
+      width: 1727
+      height: 707
+    spriteID: dd62bf6940993a940a875a09eaf650ca
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 2044, y: 1506}
+  - name: Dune08
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3701
+      width: 2000
+      height: 564
+    spriteID: b7ca1b0e298aa5e47adbc33703371eef
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -221, y: 3517}
+  - name: Dune09
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2149
+      y: 2485
+      width: 1725
+      height: 407
+    spriteID: 3d3d9d11641861746a645a00a1c3e162
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1649, y: 2150}
+  - name: Dune10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2367
+      y: 3144
+      width: 1724
+      height: 506
+    spriteID: e05d20a5ace819c4c84a57d88ffc0909
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1876, y: 2934}
+  - name: Dune11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3144
+      width: 2355
+      height: 549
+    spriteID: f632a15f22f998148a2622b4856ff4a2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -113, y: 2746}
+  - name: Dune12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 914
+      width: 2114
+      height: 836
+    spriteID: 4e205edb2bd1d5c4d9583b4441a36476
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -84, y: 732}
+  - name: Dune13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2012
+      y: 3701
+      width: 1497
+      height: 447
+    spriteID: 51b1b11eda2564549b08612dfbfb88ae
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 1820, y: 3235}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 2048
+  documentSize: {x: 2760, y: 1118}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 8192
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: Dunes_Texture
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 609
+    mosaicPosition: {x: 0, y: 0}
+  - name: ForeGround
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 10
+    mosaicPosition: {x: 0, y: 0}
+  - name: Dune00
+    spriteName: Dune00
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 253b30932c29c084aa4508c2edda47f3
+    layerID: 7
+    mosaicPosition: {x: 4, y: 4273}
+  - name: Dune01
+    spriteName: Dune01
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 5a1af155bc6f61f43b2f6cfc1da65732
+    layerID: 8
+    mosaicPosition: {x: 2101, y: 4}
+  - name: Dune02
+    spriteName: Dune02
+    isGroup: 0
+    parentIndex: 1
+    spriteID: cf52f996d4d83b84186e36dd9005c87f
+    layerID: 9
+    mosaicPosition: {x: 3129, y: 914}
+  - name: MainGround
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 12
+    mosaicPosition: {x: 0, y: 0}
+  - name: Dune03
+    spriteName: Dune03
+    isGroup: 0
+    parentIndex: 5
+    spriteID: b3b2b56e8409d294cb413c7e8dfb0100
+    layerID: 357
+    mosaicPosition: {x: 4, y: 2485}
+  - name: Dune04
+    spriteName: Dune04
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 43baeb7a5043c454fa2b533ea26bcea3
+    layerID: 606
+    mosaicPosition: {x: 4, y: 1758}
+  - name: Dune05
+    spriteName: Dune05
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 202f255e585ee994cb41e508fe064f0b
+    layerID: 356
+    mosaicPosition: {x: 4, y: 4}
+  - name: BackGround
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 21
+    mosaicPosition: {x: 0, y: 0}
+  - name: Dune06
+    spriteName: Dune06
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 4d41b5c28e1eb074bb1ac763bfeb6215
+    layerID: 404
+    mosaicPosition: {x: 2126, y: 914}
+  - name: Dune07
+    spriteName: Dune07
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 45f680f78a3ddec40a1cbdb15db2b5ee
+    layerID: 359
+    mosaicPosition: {x: 4, y: 3701}
+  - name: Dune08
+    spriteName: Dune08
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 2759c4641973bda4d9999df21b51fa98
+    layerID: 138
+    mosaicPosition: {x: 2149, y: 2485}
+  - name: Dune09
+    spriteName: Dune09
+    isGroup: 0
+    parentIndex: 9
+    spriteID: c3703731e9770d44b986a7c7fcfd1b73
+    layerID: 362
+    mosaicPosition: {x: 2367, y: 3144}
+  - name: Dune10
+    spriteName: Dune10
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 82c5fcc80a4307e4da5ad0ea82ee5850
+    layerID: 364
+    mosaicPosition: {x: 4, y: 914}
+  - name: Dune11
+    spriteName: Dune11
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 1662deab4b0ff1541a42d7978eff173f
+    layerID: 363
+    mosaicPosition: {x: 4, y: 3144}
+  - name: Dune12
+    spriteName: Dune12
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 8d5a3c059edcee645bb31341699eb819
+    layerID: 360
+    mosaicPosition: {x: 2335, y: 1758}
+  - name: DeepGround
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 17
+    mosaicPosition: {x: 0, y: 0}
+  - name: Dune13
+    spriteName: Dune13
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 2b9a1a4ded977594b84e3683e36ea780
+    layerID: 365
+    mosaicPosition: {x: 2012, y: 3701}
+  rigPSDLayers:
+  - name: Dunes_Texture
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 
+    layerID: 609
+    mosaicPosition: {x: 0, y: 0}
+  - name: ForeGround
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 
+    layerID: 10
+    mosaicPosition: {x: 0, y: 0}
+  - name: Dune00
+    spriteName: Dune00
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 84cd3bfdd9068d947a799d347c88b891
+    layerID: 7
+    mosaicPosition: {x: 4, y: 4273}
+  - name: Dune01
+    spriteName: Dune01
+    isGroup: 0
+    parentIndex: 1
+    spriteID: bbdd41c0d15f1024586c872a85490dfd
+    layerID: 8
+    mosaicPosition: {x: 2101, y: 4}
+  - name: Dune02
+    spriteName: Dune02
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 55085eedc26553a4cbf1dcac3400ce5c
+    layerID: 9
+    mosaicPosition: {x: 3129, y: 914}
+  - name: MainGround
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 
+    layerID: 12
+    mosaicPosition: {x: 0, y: 0}
+  - name: Dune03
+    spriteName: Dune03
+    isGroup: 0
+    parentIndex: 5
+    spriteID: a6d40bcdce4e696418e7d887442a00a6
+    layerID: 357
+    mosaicPosition: {x: 4, y: 2485}
+  - name: Dune04
+    spriteName: Dune04
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 5b3de29c893e1a94d8e16facd928c5af
+    layerID: 606
+    mosaicPosition: {x: 4, y: 1758}
+  - name: Dune05
+    spriteName: Dune05
+    isGroup: 0
+    parentIndex: 5
+    spriteID: 9b8df7fb8c9148348baf10685ff38acf
+    layerID: 356
+    mosaicPosition: {x: 4, y: 4}
+  - name: BackGround
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 
+    layerID: 21
+    mosaicPosition: {x: 0, y: 0}
+  - name: Dune06
+    spriteName: Dune06
+    isGroup: 0
+    parentIndex: 9
+    spriteID: de7dc72c1236bf84ea10daebdc807450
+    layerID: 404
+    mosaicPosition: {x: 2126, y: 914}
+  - name: Dune07
+    spriteName: Dune07
+    isGroup: 0
+    parentIndex: 9
+    spriteID: dd62bf6940993a940a875a09eaf650ca
+    layerID: 360
+    mosaicPosition: {x: 2335, y: 1758}
+  - name: Dune08
+    spriteName: Dune08
+    isGroup: 0
+    parentIndex: 9
+    spriteID: b7ca1b0e298aa5e47adbc33703371eef
+    layerID: 359
+    mosaicPosition: {x: 4, y: 3701}
+  - name: Dune09
+    spriteName: Dune09
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 3d3d9d11641861746a645a00a1c3e162
+    layerID: 138
+    mosaicPosition: {x: 2149, y: 2485}
+  - name: Dune10
+    spriteName: Dune10
+    isGroup: 0
+    parentIndex: 9
+    spriteID: e05d20a5ace819c4c84a57d88ffc0909
+    layerID: 362
+    mosaicPosition: {x: 2367, y: 3144}
+  - name: Dune11
+    spriteName: Dune11
+    isGroup: 0
+    parentIndex: 9
+    spriteID: f632a15f22f998148a2622b4856ff4a2
+    layerID: 363
+    mosaicPosition: {x: 4, y: 3144}
+  - name: Dune12
+    spriteName: Dune12
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 4e205edb2bd1d5c4d9583b4441a36476
+    layerID: 364
+    mosaicPosition: {x: 4, y: 914}
+  - name: DeepGround
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 
+    layerID: 17
+    mosaicPosition: {x: 0, y: 0}
+  - name: Dune13
+    spriteName: Dune13
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 51b1b11eda2564549b08612dfbfb88ae
+    layerID: 365
+    mosaicPosition: {x: 2012, y: 3701}
+  sharedRigPSDLayers: []
+  generateGOHierarchy: 0
+  textureAssetName: Desert_Texture Texture
+  prefabAssetName: Desert_Texture Prefab
+  spriteLibAssetName: Desert_Texture Sprite Lib
+  skeletonAssetName: Desert_Texture Skeleton
+  secondarySpriteTextures:
+  - name: NormalMap
+    texture: {fileID: 3104815889329638164, guid: 3089b64f2be524e4b955efec88e5b168, type: 3}
