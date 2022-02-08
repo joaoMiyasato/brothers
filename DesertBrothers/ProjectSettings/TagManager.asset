@@ -12,14 +12,14 @@ TagManager:
   - IgnoreGround
   - Water
   - UI
-  - Ground
-  - Player
+  - Ground GA
+  - PlayerA
   - SceneObjects
   - Sky
   - FX
-  - 
-  - 
-  - 
+  - Ground GP
+  - PlayerP
+  - Wall
   - 
   - 
   - 
